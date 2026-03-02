@@ -217,4 +217,4 @@ This project was developed as a task during the **[CodeAlpha](https://www.codeal
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and free to use.
