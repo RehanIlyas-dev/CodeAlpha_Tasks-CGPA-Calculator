@@ -90,6 +90,7 @@ void printDoubleLine(int n = 50)
 
 int main()
 {
+    system("cls");
     cout << endl;
     printDoubleLine();
     cout << "         " << CYN << B << "CGPA CALCULATOR" << R << endl;
